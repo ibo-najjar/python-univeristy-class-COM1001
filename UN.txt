@@ -1,0 +1,2 @@
+Canada,North America,34.8,3855000
+France,Europe,66.3,211209
